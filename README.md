@@ -91,7 +91,7 @@ jupyter notebook fraud_model_development.ipynb
 
 ### Or run training script
 ```bash
-python train_model.py
+model_development_scrypt_.py
 ```
 
 ---
